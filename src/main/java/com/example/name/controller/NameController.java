@@ -12,7 +12,7 @@ public class NameController {
 	
 	@GetMapping(value = "/getname")
 	public String getName() {
-		return "Name from Name Service";
+		return "Name from Name Micro-Service";
 	}
 	
 	@PostMapping(value = "/getname")
