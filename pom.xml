@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example.name</groupId>
 	<artifactId>name</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>name</name>
 	<description>Spring Boot Name Service</description>
 	<url/>
